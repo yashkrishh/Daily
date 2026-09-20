@@ -1,0 +1,10 @@
+/* Change all link colors to white with an underline */
+a, a:visited {
+  color: #ffffff !important;
+  text-decoration: underline;
+}
+
+/* Change link hover color to light grey */
+a:hover {
+  color: #dddddd !important;
+}
